@@ -1,0 +1,32 @@
+#welcome{
+    color: red;
+    background-color: blue;
+    text-align: center;
+     border-style: solid;
+    font-size: 50px;
+    border-color: goldenrod;
+    border-radius: 50px;
+    padding: 20px;
+}
+.main{
+background-image: url(../static/pic1.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.form{
+    background-color:aquamarine;
+    border:solid;
+    border-radius: 30px;
+    padding: 20px;
+}
+.input{
+    font-size: 25px;
+}
+.bod{
+    background-color:rgb(212, 207, 207) ;
+}
+fieldset{
+    background-color: rgb(236, 226, 209);
+}
